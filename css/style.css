@@ -18,9 +18,14 @@ header h2 {
 }
 
 main {
-  font-size: 18px;
+  font-size: 16px;
+  line-height: 2.0;
 }
 
+main i {
+color: grey;
+
+}
 footer {
   margin: 80px 0;
   font-size: 14px;
