@@ -29,6 +29,7 @@ color: grey;
 footer {
   margin: 80px 0;
   font-size: 14px;
+  display: flex;
 }
 
 footer span {
