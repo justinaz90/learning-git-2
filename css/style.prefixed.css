@@ -1,0 +1,41 @@
+body {
+    font-family: fantasy;
+    color: black;
+    text-align: center;
+}
+
+header h1 {
+  font-size: 40px;
+  margin: 0;
+  margin-top: 50px;
+  color: green;
+}
+
+header h2 {
+  font-size: 15px;
+  margin: 0;
+  padding-bottom: 40px;
+}
+
+main {
+  font-size: 16px;
+  line-height: 2.0;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+main i {
+color: grey;
+
+}
+footer {
+  margin: 80px 0;
+  font-size: 14px;
+
+}
+
+footer span {
+  color: red;
+  display: -ms-flexbox;
+  display: flex;
+}
