@@ -20,6 +20,7 @@ header h2 {
 main {
   font-size: 16px;
   line-height: 2.0;
+  display: flex;
 }
 
 main i {
@@ -29,9 +30,10 @@ color: grey;
 footer {
   margin: 80px 0;
   font-size: 14px;
-  display: flex;
+
 }
 
 footer span {
   color: red;
+  display: flex;
 }
